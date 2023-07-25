@@ -1,0 +1,54 @@
+*{
+	margin: 5px;
+	padding: 5px;
+}
+.fondo{
+	background-image: url(bg-desktop.svg);
+	background-color: #8744EB;
+	background-size: 90% 100% ;
+}
+
+.logo{
+	width: 200px;
+	height: 50px;
+}
+
+.ejemplos{
+	width: 650px;
+	height: 450px;
+	text-align: right;
+	position: relative;
+}
+.text1{
+	text-align: left;
+	color: white;
+	font-size: 30px;
+	font-weight: bold;
+	font-family: Arial;
+
+}
+
+.contenedor{
+	display: flex;
+}
+
+.Text3{
+	text-align: left;
+	font-family: Arial;
+	color: white;
+}
+.cuadro{
+	border-radius: 30px;
+	background-color: white;
+	width: 125px;
+	padding: 10px;
+	text-align: center;
+	margin: 15px;
+	font-size: 15px;
+	font-family: Arial;
+}
+.dd{
+	text-align: right;
+	align-self: flex-end;
+}
+
